@@ -1,0 +1,17 @@
+﻿  laba1.c
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(114,19): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(129,24): warning C4305: =: усечение из "int" в "char"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(131,22): warning C4305: =: усечение из "int" в "char"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(170,15): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(230,29): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(250,33): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(303,27): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(398,29): warning C4305: =: усечение из "int" в "char"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(401,23): warning C4305: =: усечение из "int" в "char"
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(531,33): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(550,37): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(580,37): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(661,139): warning C4474: "printf" : для строки формата передано слишком много аргументов
+\\Mac\Home\Desktop\LABA1BDd\laba1.c(661,139): message : заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 5
+  LABA1BD.vcxproj -> \\Mac\Home\Desktop\LABA1BDd\Debug\LABA1BD.exe
